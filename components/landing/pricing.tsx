@@ -1,3 +1,5 @@
+#pricing components to the landing page
+  
 import { Button } from "@/components/ui/button";
 import { Check } from "lucide-react";
 
