@@ -1,3 +1,5 @@
+#Body segment of the landing page
+  
 import { Zap, Shield, Globe, Layers, GitBranch, BarChart3 } from "lucide-react";
 
 const features = [
