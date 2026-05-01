@@ -1,3 +1,5 @@
+#Header code for the landing page
+  
 "use client";
 
 import Link from "next/link";
